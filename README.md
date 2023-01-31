@@ -5,4 +5,4 @@
 
 * Link to the video presentation 
 
-* https://github.com/han191299/Methods-Tool-GroupProject-Fall2022
+* https://www.ece.msstate.edu/academics/undergraduate/ece-design/
